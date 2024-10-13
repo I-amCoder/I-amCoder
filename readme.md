@@ -46,7 +46,7 @@ Implemented robust features using **GraphClient**, **dependency injection**, and
 I’m constantly seeking to expand my expertise in **.NET technologies** while staying open to exploring other tech stacks. I enjoy solving complex problems and contributing to open-source projects whenever possible.
 
 📫 **Let's Connect**:  
-- Email: [junaid.ali@example.com](mailto:hackerjunaid@outlook.com)  
+- Email: [hackerjunaid@outlook.com](mailto:hackerjunaid@outlook.com)  
 - [LinkedIn](https://www.linkedin.com/in/junaid-ali-software-engineer)  
 
 ✨ *"Code is like humor. When you have to explain it, it’s bad."*  
